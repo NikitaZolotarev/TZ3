@@ -9,5 +9,4 @@ _Список тестов_:
 6. Тест на  корректность расчета минимального и максимального числа через сравнение минимума и максимума.
 
 
-[![pipeline status](https://gitlab.com/NikitaZolotarev/TZ3/badges/main/![image](https://user-images.githubusercontent.com/96376992/146681844-b63cf080-a988-418e-bc1c-1338279d3317.png)
-)](https://gitlab.com/NikitaZolotarev/TZ3/-/commits/main)
+[![pipeline status](https://gitlab.com/NikitaZolotarev/TZ3/badges/main/pipeline.svg)]
