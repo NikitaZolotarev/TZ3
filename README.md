@@ -8,4 +8,5 @@ _Список тестов_:
 5. Тест на скорость работы программы - в качестве константы для сравнения взято среднее время работы программы по результатам 10 измерений.
 6. Тест на  корректность расчета минимального и максимального числа через сравнение минимума и максимума.
 
-![workflow](https://github.com/NikitaZolotarev/TZ3/actions/workflows/.gitlab-ci.yml/badge.svg)
+[![pipeline status](https://gitlab.com/NikitaZolotarev/TZ3/badges/main/pipeline.svg)](https://gitlab.com/NikitaZolotarev/TZ3/-/commits/main)
+
